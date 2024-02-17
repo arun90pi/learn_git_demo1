@@ -2,4 +2,4 @@
 ***
 
 
-### ref: Youtube (Telusko)
+### Youtube (Telusko)
