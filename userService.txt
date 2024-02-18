@@ -7,3 +7,5 @@ Step 2
 Process the Data.
 
 
+Step 3 (Experimental Feature 1)
+Add Avatar on the user profile.
