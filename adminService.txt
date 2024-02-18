@@ -1,0 +1,10 @@
+# pseudocode for admin services.
+
+
+Requirement 1
+Add user 
+Remove user
+
+
+Requiement 2
+Change roles
